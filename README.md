@@ -1,0 +1,2 @@
+# ssh2-boot
+使用ssh2框架搭建的JavaEE后台管理系统框架，采用maven依赖管理和git版本控制，使用SiteMesh装饰布局，采用Struts2约定优于配置管理action，其中用到了aceUI框架，是一个简单的JavaEE脚手架(JavaEE background management system framework is built using the SSH2 framework, using Maven dependency management and git version control, the use of SiteMesh decoration layout, using the Struts2 convention over configuration management of action, which uses the aceUI framework, is a simple JavaEE scaffold)
