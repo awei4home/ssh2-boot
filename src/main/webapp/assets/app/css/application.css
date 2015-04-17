@@ -1,0 +1,13 @@
+/**********应用程序css*************/
+
+
+/*********** 登录页面****************/
+.login-layout{
+	background-color:#ffffff
+}
+.login-layout .widget-box .widget-body .toolbar>div>a {
+	text-shadow: none;
+}
+.login-layout .widget-box{
+	padding: 0px;
+}
